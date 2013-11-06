@@ -1,0 +1,89 @@
+body{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color:#fff;
+	font-size: 16px;
+	background: url('../img/mac.jpg');
+	background-size: 2000px;
+}
+img{
+	height: 60px;
+	width: 60px;
+}
+br{
+	margin:0px;
+}
+a{
+	text-decoration: none
+}
+a:link{
+	color:white;
+}
+a:hover{
+	color:grey !important;
+}
+a:active{
+	color:white !important;
+}
+a:visited{
+	color:white;
+}
+h3{
+	font-size:24px;
+}
+
+.header{
+	margin-top: 400px;
+	color: white;
+}
+.div1{
+	width: 100%;
+	height: 100%;
+	background: #0096ff;
+	float:left;
+}
+.div2{
+	width: 100%;
+	height: 1000%;
+	float: left;
+	background: #41AB6D;
+}
+.div3{
+	width: 100%;
+	height: 1000%;
+	float: left;
+	background: #EFA400;
+}
+.div4{
+	width: 100%;
+	height: 100%;
+	float: left;
+	background: #d54f30;
+}
+.column1{
+	float:left;
+	width:33%;
+}
+.column2{
+	float:left;
+	width:33%;
+}
+.column3{
+	float:left;
+	width:33%;
+}
+.button{
+	display:inline-block;
+	height: 40px;
+	width:100px;
+	background:#0096ff;
+	border: 2px solid white;
+	color: white;
+	text-align:center;
+	vertical-align:middle;
+
+}
+
